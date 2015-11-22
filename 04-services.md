@@ -2,7 +2,7 @@
 layout: lesson
 root: .
 title: Services in OpenRefine
-minutes: 
+minutes:
 ---
 
 # Learning Objectives
@@ -18,5 +18,3 @@ minutes:
 ## Call a Service (this example is set up to georeference locality data, but could use any service).
 
 * For this demo, the instructor may find a web service appropriate to demonstrate.
-
-Previous: [Saving and Exporting files and projects](03-save-export.html)
